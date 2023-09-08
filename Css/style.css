@@ -289,6 +289,10 @@ section {
     .main h3 {
         font-size: 1.4em;
     }
+    
+    .contact .card-contanier .card .info p {
+        font-size: 1.3em;
+    }
 }
 
 @media (max-width:478px) {
